@@ -1,3 +1,5 @@
 * Random Notes
 
   1. [X] [[file:stuff/hello.org][First]], establish repo
+  2. [ ] [[file:stuff/20-06-14-silicon-valley-schamanism.org][Is Silicon Valley thinking a schamanistic religion-like thinking-system?]]
+

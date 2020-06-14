@@ -1,0 +1,17 @@
+* Is Silicon Valley thinking av schamanistic religious-like thinking system?
+
+** Belief
+
+  1. /Unicorns/ — powerful good nature-spirits
+  2. /Founders/ — plays the role of "forefathers"
+     1. Steve Jobs – sky father  ("lawful good")
+     2. Richard Stallman — trickster  ("chaotic good")
+     3. Elon Musk — Steve Job's "firstborn son" ("chaotic good")
+     4. Mark Zuckerberg — Steve Job's "secondborn son", a bit too
+        self-interested ("lawful neutral")
+     5. Sean Parker — another trickster ("chaotic neutral")
+     /Of those, only Steve Jobs is physically dead/
+  3. /Disruptors/ – Schamans
+  4. /Black swans/ — evil spirits that might curse you
+  5. /Editor/ —sometimes magical tools of the trade. Only VI(m) and Emacs
+     counts as magical.
